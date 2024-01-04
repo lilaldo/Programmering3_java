@@ -16,6 +16,8 @@ public class övning_23 {
         String hälsning = "Välkommen " + namn + " " + efternamn;
         // println för att resultatet ska hamna på raden under.
         System.out.println(hälsning);
+        // sout [enter] System.out.print()
+
     }
 }
 
