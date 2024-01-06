@@ -1,7 +1,7 @@
 package Övningsuppgifter;
 
 import java.util.*;
-public class övning_23 {
+public class ovning_23 {
     public static void main(String[] args) {
         // Scanner (input) scan (går att byta) = new args
         Scanner scan = new Scanner(System.in);
