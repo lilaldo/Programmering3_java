@@ -1,4 +1,4 @@
-package Lektionsanteckningar;
+package Lektionsanteckningar.Lektion2;
 import java.util.Scanner;
 
 // import java.util.Arrays;

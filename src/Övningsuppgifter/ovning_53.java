@@ -1,4 +1,6 @@
 package Övningsuppgifter;
+import Lektionsanteckningar.Lektion3.ConsoleColors;
+
 import java.util.Scanner;               // importera scanner
 
 public class ovning_53 {
@@ -13,6 +15,7 @@ public class ovning_53 {
             drop = (int)(drop * 0.7);   // minskar höjden med 30%
             bounce = bounce + 1;        // och antal studs ökar med 1
         }
-        System.out.println("Bollen studsade totalt " + bounce + "gånger");
+        System.out.println(ConsoleColors.BLUE + "Bollen studsade totalt " + bounce + "gånger " + ConsoleColors.RESET);
+
     }
 }

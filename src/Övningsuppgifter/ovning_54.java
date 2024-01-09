@@ -5,7 +5,7 @@ public class ovning_54 {
     public static void main(String[] args) {
         var scan = new Scanner(System.in);
 
-        while (true) { // blir falsee när man skriver in 0.
+        while (true) { // blir false när man skriver in 0.
             System.out.println("Från vilken höjd vill du släppa bollen (cm)? ");
             int drop = scan.nextInt();
             int bounce = 0;
