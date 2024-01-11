@@ -2,10 +2,11 @@ package Lektionsanteckningar.Lektion3;
 
 
 // Skapa program som kollar om inmatat tal är jämnt eller udda.
-/**
+
 import java.util.*;
 
 public class Lektion3 {
+
     public static void main(String[] args) {
         var scan = new Scanner(System.in);
         System.out.println("Läs in ett tal? ");
@@ -17,7 +18,7 @@ public class Lektion3 {
 
         }
     }
- */
+
 
 
 

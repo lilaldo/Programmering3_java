@@ -1,6 +1,6 @@
 package Lektionsanteckningar.Lektion3;
 
-public class ärVitt {
+public class testawhitespace {
     // Hitta whitespaces.
 
     public static void main(String[] args) {
